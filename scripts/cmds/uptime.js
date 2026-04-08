@@ -7,7 +7,7 @@ module.exports = {
     name: "uptime",
     aliases: ["up", "upt"],
     version: "2.0",
-    author: "Saimx69x",
+    author: "ajmaul",
     role: 0,
     usePrefix: true,
     shortDescription: {
@@ -79,7 +79,7 @@ module.exports = {
 ╭─╼━━━━━━━━╾─╮
 │ 💤 Uptime : ${upTimeStr}
 │ ⚡ Ping   : ${ping}ms
-│ 👑 Owner  : Zefox
+│ 👑 Owner  : Ajmaul 
 ╰─━━━━━━━━━╾─╯
 ━━━━━━━━━━━━━━
         `,
